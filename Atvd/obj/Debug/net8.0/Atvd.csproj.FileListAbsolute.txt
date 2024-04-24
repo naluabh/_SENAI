@@ -1,0 +1,14 @@
+C:\_SENAI\atvd\bin\Debug\net8.0\Atvd.exe
+C:\_SENAI\atvd\bin\Debug\net8.0\Atvd.deps.json
+C:\_SENAI\atvd\bin\Debug\net8.0\Atvd.runtimeconfig.json
+C:\_SENAI\atvd\bin\Debug\net8.0\Atvd.dll
+C:\_SENAI\atvd\bin\Debug\net8.0\Atvd.pdb
+C:\_SENAI\atvd\obj\Debug\net8.0\Atvd.GeneratedMSBuildEditorConfig.editorconfig
+C:\_SENAI\atvd\obj\Debug\net8.0\Atvd.AssemblyInfoInputs.cache
+C:\_SENAI\atvd\obj\Debug\net8.0\Atvd.AssemblyInfo.cs
+C:\_SENAI\atvd\obj\Debug\net8.0\Atvd.csproj.CoreCompileInputs.cache
+C:\_SENAI\atvd\obj\Debug\net8.0\Atvd.dll
+C:\_SENAI\atvd\obj\Debug\net8.0\refint\Atvd.dll
+C:\_SENAI\atvd\obj\Debug\net8.0\Atvd.pdb
+C:\_SENAI\atvd\obj\Debug\net8.0\Atvd.genruntimeconfig.cache
+C:\_SENAI\atvd\obj\Debug\net8.0\ref\Atvd.dll
